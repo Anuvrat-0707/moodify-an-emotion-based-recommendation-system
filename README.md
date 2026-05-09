@@ -120,3 +120,8 @@ Note: Camera access is required for mood detection.
 - Mobile app version
 - Advanced chatbot with NLP
 # Emotion-Detector
+
+## A College Project by - 
+Agnik Dutta 
+Priyam Prasad Sahoo
+Anuvrat Saxena
